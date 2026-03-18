@@ -30,7 +30,7 @@ Currently, the environment consists of two virtual nodes:
 * `/docs` - Detailed notes on specific RHEL administration topics.
 
 ## 📈 Roadmap
-- [ ] Implement automated backups using `rsync` and `cron`.
+- [x] Implement automated backups using `rsync` and `cron`.
 - [ ] Configure a local HTTP server (Apache/Nginx).
 - [ ] Explore containerization using **Podman**.
 - [ ] Deep dive into Ansible for infrastructure automation.
